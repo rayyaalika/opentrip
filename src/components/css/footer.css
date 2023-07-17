@@ -1,0 +1,13 @@
+.bg_footer{
+    color: white;
+    background-color: #0E6666;
+    max-width: 1519px;
+}
+
+.ul_footer{
+    list-style: none;
+    text-align: left;
+    width: 400px;
+    margin-left: 170px;
+    
+}
